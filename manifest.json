@@ -1,7 +1,7 @@
 {
   "name": "murilofaria-giftcard-protocol-vtex",
   "vendor": "murilofaria",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Gift Card Protocol Example",
   "description": "Reference app for Gift Card Protocol Services",
   "mustUpdateAt": "2018-01-04",
