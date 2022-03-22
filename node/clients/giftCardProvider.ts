@@ -41,15 +41,26 @@ export class GiftCardProvider extends ExternalClient {
     return [
       {
         balance:  10,
-        caption: 'List All GC - Example',
+        caption: '1st Obj List All GC - Example',
         emissionDate: '2020-07-05T14:48:00.000Z',
         expiringDate: '2030-10-10T14:48:00.000Z',
         id: 'xpto1',
         provider: 'MuriloFariaGC',
         transaction: {
-          href: 'murilofaria/giftcardproviders/MuriloFariaGC',
-        },
+          href: 'murilofaria/giftcardproviders/MuriloFariaGC'
+        }
       },
+      {
+        balance:  20,
+        caption: '2nd Obj List All GC - Example',
+        emissionDate: '2020-07-05T14:48:00.000Z',
+        expiringDate: '2030-10-10T14:48:00.000Z',
+        id: 'xpto2',
+        provider: 'MuriloFariaGC',
+        transaction: {
+          href: 'murilofaria/giftcardproviders/MuriloFariaGC'
+        }
+      }
     ]
   }
 
